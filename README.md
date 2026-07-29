@@ -14,7 +14,7 @@ I'm building skills in software development—applications, APIs, databases—an
 
 ### Tech I work with
 
-`TypeScript` `JavaScript` `PHP` `Java` `C++` `SQL` `Angular` `MySQL` `HTML` `CSS`
+`TypeScript` `JavaScript` `PHP` `Java` `C++` `SQL` `Angular` `MySQL` `HTML` `CSS` `MongoDB``Python`
 
 ### Connect
 
