@@ -6,7 +6,7 @@ I'm building skills in software development—applications, APIs, databases—an
 
 ### Currently
 - Learning full-stack development through coursework and personal projects
-- Open to internships in software development
+- Open to work in software development
 
 ### Recently
 
