@@ -7,12 +7,13 @@
 - **Scholarships & Awards:** Mastercard Foundation Scholar, Kucetekela Foundation Alumnus
 
 ### Currently
-- Learning full-stack development through coursework and personal projects
-- Open to work in software development
+
+- **Academic Focus:** Coursework and project-based work centered on clean code and software design patterns.
+- **Career Goals:** Open to software development opportunities, internships, and collaborative projects.
 
 ### Experience
 
-- **Tutor: COS132(Impertive Programming)** at the _University of Pretoria_ (Feb–Jun 2026) 
+- **Tutor: COS132(Imperative Programming)** at the _University of Pretoria_ (Feb–Jun 2026) 
 
 ### Tech Stack
 
