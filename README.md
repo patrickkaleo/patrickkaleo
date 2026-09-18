@@ -1,8 +1,9 @@
 # Hi, I'm Patrick
 
-Computer Science @ the University of Pretoria.
-
-### Focus
+### Education
+- **BSc Computer Science** | University of Pretoria *(2025–Present)*
+- **IB Diploma** | Pestalozzi Academy *(2019–2023)*
+- **Scholarships & Awards:** Mastercard Foundation Scholar
 
 **Design:**
 - Intentional, streamlined object-oriented design focused on clear communication between system components.
@@ -15,12 +16,6 @@ Computer Science @ the University of Pretoria.
 **Leadership:**
 - Leading group projects through clear milestone execution, open communication, and cross-functional support.
 - Active in volunteerism, peer mentorship, and local community initiatives to empower peers and create a lasting, meaningful impact
-
-### Education
-
-- **BSc Computer Science** | University of Pretoria *(2025–Present)*
-- **IB Diploma** | Pestalozzi Academy *(2019–2023)*
-- **Scholarships & Awards:** Mastercard Foundation Scholar
 
 ### Programming Languages
 
