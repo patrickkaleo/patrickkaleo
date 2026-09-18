@@ -5,11 +5,11 @@ Computer Science @ the University of Pretoria.
 ### Focus
 
 **Design:**
-- Intentional, streamlined object-oriented design focused on clear communication channels between system components.
-- Maintaining clean architecture through the strict application of scalable, maintainable software design patterns.
+- Intentional, streamlined object-oriented design focused on clear communication between system components.
+- Maintaining clean architecture through the strict application of scalable, maintainable software design practices.
   
 **Collaboration:**
-- Driving collaborative development workflows with clean version control and structured repository organization.
+- Driving collaborative development workflows with clean version control and structured codebase organization.
 - Writing intuitive, self-documenting code structures that make team integration and reviews seamless.
 
 **Leadership:**
@@ -19,8 +19,8 @@ Computer Science @ the University of Pretoria.
 ### Education
 
 - **BSc Computer Science** | University of Pretoria *(2025–Present)*
-- **IB Diploma** | Pestalozzi Education Centre *(2019–2023)*
-- **Scholarships & Awards:** Mastercard Foundation Scholar, Kucetekela Foundation Alumnus
+- **IB Diploma** | Pestalozzi Academy *(2019–2023)*
+- **Scholarships & Awards:** Mastercard Foundation Scholar
 
 ### Programming Languages
 
